@@ -19,7 +19,7 @@ app.use(express.json()) //determina que todos os requests serão enviados em jso
 //Lista para simular banco de dados
 let users = [
   {id: 1, name: 'Nícolas Kormann', age: 26},
-  {id: 2, name: 'Rafael Ribeiro', age: 31},
+  {id: 2, name: 'Adem Pölitz', age: 101},
 ]
 
 /* ----------------------------------------------------------- */
